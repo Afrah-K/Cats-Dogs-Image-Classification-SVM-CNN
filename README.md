@@ -7,6 +7,7 @@
 
  <table>
   <tr>
+   <th></th>
    <th>CNN 20,000</th>
    <th>CNN 4,000</th>
    <th>SVM 4,000</th>
